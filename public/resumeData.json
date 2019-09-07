@@ -1,0 +1,161 @@
+{
+  "main": {
+    "name":"Enver Rahman",
+    "occupation":"Undergraduate student at the University of Maryland, College Park. Studying computer science, with a passion for design",
+    "description":"",
+    "image":"profilepic.jpg",
+    "bio":"Welcome to my website! I am a student at the University of Maryland, studying computer science. In my free time I enjoy streaming League of Legends where I educate fellow gamers on how to properly play the game.I also enjoy creating graphics which you can find below.",
+    "email": "enver90@gmail.com",
+    "phone": "240-389-8987",
+    "address":{
+      "street":"8517 Rhode Island Ave",
+      "city":"College Park",
+      "state":"MD",
+      "zip": "20740"
+    },
+    "website": "https://enversresumewebsite.firebaseapp.com/",
+    "resumedownload":"../../public/resume/Enver_Rahman.pdf",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/enver90",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/enver0wnz",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"discord",
+        "url":"https://discord.gg/tbFdyqc",
+        "className":"fab fa-discord"
+      },
+      {
+        "name":"twitch",
+        "url":"https://www.twitch.tv/enverownz",
+        "className":"fab fa-twitch"
+      }
+
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"University of Maryland, College Park",
+        "degree":"Computer Science",
+        "graduated":"August 2017 - May 2020 (Expected)",
+        "description":"Pursuing Bachelors of Science in Computer Science"
+      },
+      {
+        "school":"University of Maryland, Baltimore County",
+        "degree":"Computer Science",
+        "graduated":"August 2015 - May 2017"
+      }
+    ],
+    "work":[
+      {
+        "company":"Rainking Solutions",
+        "title":"Research and Data Analyst",
+        "years":"May 2015 - July 2017",
+        "description":"Conducted research on numerous companies, organizations and employee profiles for their product database."
+        
+      },
+      {
+        "title":"Research Intern",
+        "years":"May 2014 - May 2015",
+        "description": "Collected and reviewed analytic data on local companies and individual profiles."
+      },
+      {
+        "company":"Design Consultation",
+        "title":"Consultant",
+        "years":"May 2013 - Present",
+        "description":"Created Marketing and advertisement designs for small online businesses using Adobe Master Suite."      
+      },
+      {
+        "company":"Credible Tech Solutions",
+        "title":"Founder",
+        "years":"May 2012 - Present",
+        "description":"Custom computer building service and self run tech repair service for computer hardware, software and phones."      
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python"
+      },
+      {
+        "name":"C/C++"
+      },
+      {
+        "name":"Ocaml"      
+      },
+      {
+        "name":"Ruby"      
+      },
+      {
+        "name":"Rust"
+      },
+      {
+        "name":"Racket"
+      },
+      {
+        "name":"Adobe Master Suite"
+      },
+      {
+        "name":"FL Studio"
+      },
+      {
+        "name":"Sony Vegas Pro"
+      },
+      {
+        "name":"Microsoft Office"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
